@@ -20,24 +20,24 @@ https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data
 Problem: High booking cancellation rates impact hotels’ revenue and occupancy stability, especially during low-demand periods. To address this, our goal is to reduce cancellations, optimize occupancy, and increase revenue through targeted marketing and predictive modeling.
 
 Solution: 
-•	Use predictive modeling with logistic regression to identify high-risk cancellations and enable proactive retention strategies.
-•	Implement targeted marketing campaigns focused on demographics prone to cancellation, encouraging booking retention and personalized offers.
-•	Apply dynamic pricing to attract guests during low-demand periods and overbooking strategies during high-demand periods based on cancellation predictions.
-•	Analyze demand patterns to optimize staffing levels, ensuring sufficient employees during peak times while minimizing costs during slower periods.
-•	Predict demand to set optimal room prices, allowing for price increases during high-demand periods and discounts or special offers during low-demand times.
+- Use predictive modeling with logistic regression to identify high-risk cancellations and enable proactive retention strategies.
+- Implement targeted marketing campaigns focused on demographics prone to cancellation, encouraging booking retention and personalized offers.
+- Apply dynamic pricing to attract guests during low-demand periods and overbooking strategies during high-demand periods based on cancellation predictions.
+- Analyze demand patterns to optimize staffing levels, ensuring sufficient employees during peak times while minimizing costs during slower periods.
+- Predict demand to set optimal room prices, allowing for price increases during high-demand periods and discounts or special offers during low-demand times.
 
 Data Details:
 
-•	Source: Article Hotel Booking Demand Datasets; Kaggle TidyTuesday February 2020.
-•	Sample Size: The dataset comprises 119,390 booking details collected from two hotels: City Hotel and Resort Hotel.
-•	Time Period: 365 days, Year-2015 
-•	All personally identifying information has been removed from the data.
+- Source: Article Hotel Booking Demand Datasets; Kaggle TidyTuesday February 2020.
+- Sample Size: The dataset comprises 119,390 booking details collected from two hotels: City Hotel and Resort Hotel.
+- Time Period: 365 days, Year-2015 
+- All personally identifying information has been removed from the data.
 
 Assumptions:
-•	In the year 2015, no significant events or unexpected incidents happened that could affect the booking/ cancellation rate.
-•	The most significant factor influencing revenue generation is the occurrence of booking cancellations.
-•	The information remains up-to-date and can be effectively utilized to analyze a hotel's potential strategies.
-•	There are no unforeseen drawbacks to the hotel's adoption of any recommended approach.
+-	In the year 2015, no significant events or unexpected incidents happened that could affect the booking/ cancellation rate.
+-	The most significant factor influencing revenue generation is the occurrence of booking cancellations.
+-	The information remains up-to-date and can be effectively utilized to analyze a hotel's potential strategies.
+-	There are no unforeseen drawbacks to the hotel's adoption of any recommended approach.
 
 
 
