@@ -30,7 +30,7 @@ Data Details:
 
 - Source: Article Hotel Booking Demand Datasets; Kaggle TidyTuesday February 2020.
 - Sample Size: The dataset comprises 119,390 booking details collected from two hotels: City Hotel and Resort Hotel.
-- Time Period: 365 days, Year-2015 
+- Time Period: 01-01-2015 to 12-31-2017 
 - All personally identifying information has been removed from the data.
 
 Assumptions:
