@@ -1,4 +1,4 @@
-# Practical-Data-Science-Project
+# Hotel-booking-cancellation-prediction
 This repository consists a python file for Hotel Revenue Optimization Project
 
 # Project Title: Optimizing Hotel Revenue by Reducing Cancellations and Targeted Marketing.
